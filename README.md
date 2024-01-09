@@ -4,8 +4,12 @@ Este es mi proyecto utilizando MySQL como motor de DB.
 
 This is my project using MySQL as a DB. 
 
-# SCHEMA UTILIZADO
+# SCHEMA UTILIZADO - SCHEMA's name used
 create_schema= fundacion_futbol
+
+# PORGRAMA UTILIZADO - PROGRAM used
+MySQL Server ![alt text](http://url/to/img.png)
+
 
 # INTRODUCCIÓN - INTRODUCTION
 
