@@ -7,8 +7,10 @@ This is my project using MySQL as a DB.
 # SCHEMA UTILIZADO - SCHEMA's name used
 create_schema= fundacion_futbol
 
-# PORGRAMA UTILIZADO - PROGRAM used
-MySQL Server ![alt text](https://proyectoa.com/wp-content/uploads/2008/09/mysql.jpg)
+# PROGRAMA UTILIZADO - PROGRAM used
+## MySQL Server 
+
+![alt text](https://proyectoa.com/wp-content/uploads/2008/09/mysql.jpg)
 
 
 # INTRODUCCIÓN - INTRODUCTION
