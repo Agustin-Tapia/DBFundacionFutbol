@@ -8,7 +8,7 @@ This is my project using MySQL as a DB.
 create_schema= fundacion_futbol
 
 # PORGRAMA UTILIZADO - PROGRAM used
-MySQL Server ![alt text](http://url/to/img.png)
+MySQL Server ![alt text]([http://url/to/img.png](https://proyectoa.com/wp-content/uploads/2008/09/mysql.jpg))
 
 
 # INTRODUCCIÓN - INTRODUCTION
